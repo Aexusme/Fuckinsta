@@ -9,7 +9,7 @@ Get Instagram account information with this tool
 # Installation
 
 ```
-git clone https://github.com/Aexusme/
+git clone https://github.com/Aexusme/Fuckinsta.py
 ```
 Go to the directory
 ```
